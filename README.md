@@ -6,6 +6,8 @@ DO NOT RUN THIS ON YOUR COMPUTER if you want to see what it does i recomend you 
 
 This python script when you run it will token log the person and then send the file (bomber.py) to everyone on there friends list saying its a discord server crasher.
 
+information it will return: ![Screenshot 2021-05-09 145846](https://user-images.githubusercontent.com/83868916/117561181-d00e7e00-b0d7-11eb-9921-46f8689a5e19.png)
+
 ## It token logs from
 
 Chrome
