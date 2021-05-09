@@ -47,3 +47,5 @@ try:
 8. send to victim on discord ![Screenshot 2021-05-09 145846](https://user-images.githubusercontent.com/83868916/117561181-d00e7e00-b0d7-11eb-9921-46f8689a5e19.png)
 
 # **!!Disclaimer this is for educational use only and i am not responsible for your actions or uses of this code!!**
+
+**feel free to ask any questions or report any issues in the issues tab**
